@@ -160,3 +160,4 @@ triplelift.com, 14709, RESELLER, 6c33edb13117fd86
 triplelift.com, 8614, RESELLER, 6c33edb13117fd86
 triplelift.com, 14127, RESELLER, 6c33edb13117fd86
 ownerdomain=bekto39.github.io
+google.com, pub-9957917403215457, DIRECT, f08c47fec0942fa0
